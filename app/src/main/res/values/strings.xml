@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">uQuery</string>
+    <string name="title_group">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_private">Private</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+</resources>
