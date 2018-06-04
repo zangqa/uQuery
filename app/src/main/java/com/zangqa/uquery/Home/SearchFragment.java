@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 
 import com.zangqa.uquery.R;
 
-public class DashboardFragment extends Fragment {
+public class SearchFragment extends Fragment {
 
     @Nullable
     @Override

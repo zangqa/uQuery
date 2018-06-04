@@ -10,11 +10,11 @@ import android.view.ViewGroup;
 
 import com.zangqa.uquery.R;
 
-public class PrivateFragment extends Fragment {
+public class AdduserFragment extends Fragment {
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_private, container, false);
+        return inflater.inflate(R.layout.fragment_dashboard, container, false);
     }
 }
